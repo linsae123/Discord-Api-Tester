@@ -4,7 +4,7 @@ import json
 
 API_VERSIONS = ["v9", "v10"]
 ENDPOINT = "/users/@me"
-BOT_TOKEN = "YOUR BOT TOKEN HERE"
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 
 headers_template = {
     "Authorization": f"Bot {BOT_TOKEN}",
